@@ -206,10 +206,10 @@ img{
     color: var(--white-color);
 }
 .home__img{
-    position: relative;
-    right: 0px;
-    bottom: 420px;
-    margin-left: 900px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    /* margin-left: 900px; */
 
     width: 295px;
 }
